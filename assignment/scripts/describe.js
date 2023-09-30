@@ -123,6 +123,9 @@ if (number >= 2) {
 //4. We start with three variables -- colorOne is set to 'blue' and
 // colorTwo is set to 'red', and mix is set to true. We check if mix is true
 // -- it is, so we set colorOne and colorTwo to 'purple'
+//
+// To fix this, add another line after setting `colorOne` to "purple" which
+// sets `colorTwo` to "purple" as well.
 
 /*
 let colorOne = 'red';
