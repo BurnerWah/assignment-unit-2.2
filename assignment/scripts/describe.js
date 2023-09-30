@@ -163,6 +163,11 @@ if (temp > 39 || time >= 4) {
 let age = 21;
 const minAge = 21;
 
+// There are several fixes for this
+// The simplest would be to change the `<=` to a `>`, but I would prefer
+// it if enter was placed before no entry instead as IMO it's easier to read.
+// Also, while it doesn't actually fix anything, having the condition be
+// `age >= minAge` would also make it easier to read.
 if(minAge <= age) {
   console.log('no entry');
 } else {
