@@ -43,10 +43,12 @@ if (name === 'Mary') {
 */
 
 // 2. WRITE YOUR DESCRIPTION HERE
-//
-//
-//
-//
+// We create a variable named `secret`, which is initially undefined. Then, we
+// create a variable named `code`, and set it to the number 123. Then, if `code`
+// is equal to 123, set set secret to the string super, and multiply `code` by
+// 2, setting it to 246. Next, we check if `code` is greater than 250, which it
+// is not. If it were, we would set set secret to the string duper. Finally, we
+// log `secret` to the console.
 
 //CODE
 /*
