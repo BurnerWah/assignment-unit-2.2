@@ -70,10 +70,15 @@ console.log(secret)
 */
 
 // 3. WRITE YOUR DESCRIPTION HERE
-//
-//
-//
-//
+// First, three variables are declared: `isStudent`, a boolean set to true,
+// `age`, a number set to 34, and `zip`, a number set to 55407. Then, we check
+// to see if `isStudent` is true and `zip` is greater than 80000. If so, we log
+// "You're a student on the West Coast!" to the console. If either condition is
+// false, we check if `isStudent` is false or if `age` is less than 30. If
+// either condition is met, we log "What are your hobbies?" to the console. If
+// neither condition is met, we check if `isStudent` is true, and if so we log
+// "Welcome to Prime!" to the console. If not, we log "How about the weather?"
+// to the console.
 
 //CODE
 /*
