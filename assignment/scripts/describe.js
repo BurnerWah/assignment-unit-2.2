@@ -133,6 +133,8 @@ if (number >= 2) {
 // -- it is, so we set colorOne and colorTwo to 'purple'
 
 /*
+// colorOne and colorTwo have their values swapped; colorOne should be blue,
+// and colorTwo should be red.
 let colorOne = 'red';
 let colorTwo = 'blue';
 let mix = true;
