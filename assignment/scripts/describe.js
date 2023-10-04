@@ -28,6 +28,7 @@ if (number >= 2) {
 // Then, we check if `name` is set to the string "Mary", and if so,
 // we log "Hi, Mary!" to the console. If not, we log "How do you do?"
 // to the console.
+// When executed, "Hod do you do?" is logged to the console
 
 //CODE
 /*
@@ -49,6 +50,7 @@ if (name === 'Mary') {
 // 2, setting it to 246. Next, we check if `code` is greater than 250, which it
 // is not. If it were, we would set set secret to the string duper. Finally, we
 // log `secret` to the console.
+// When executed, "super" is logged to the console.
 
 //CODE
 /*
@@ -79,6 +81,7 @@ console.log(secret)
 // neither condition is met, we check if `isStudent` is true, and if so we log
 // "Welcome to Prime!" to the console. If not, we log "How about the weather?"
 // to the console.
+// When executed, "Welcome to Prime!" is logged to the console.
 
 //CODE
 /*
